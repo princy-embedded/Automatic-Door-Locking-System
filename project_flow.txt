@@ -1,0 +1,23 @@
+START
+
+↓
+Initialize Arduino
+
+↓
+Read Sensor Input
+
+↓
+Check Object/Motion Detection
+
+↓
+If Detected:
+   Unlock Door
+
+Else:
+   Lock Door
+
+↓
+Display Status on Serial Monitor
+
+↓
+Repeat
